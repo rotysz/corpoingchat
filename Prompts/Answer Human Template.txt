@@ -1,0 +1,6 @@
+Draw from the context below to provide an exhaustive reply at the end. Reply should be in polish language. If you do not know the answer, reply I do not know, do not try to make up an answer.
+                    {search}
+                    {context}
+                     
+                    Pytanie: {question}
+                    Odpowiedź:

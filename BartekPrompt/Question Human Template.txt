@@ -1,0 +1,6 @@
+Given the following conversation and a follow up question, rephrase and extend the follow up questions to be a standalone comprehensive question.
+    Question should be in Polish. Do not repeat the question from the conversation.
+    Chat History:
+    {chat_history}
+    Follow Up Input: {question}
+    Standalone question in Polish:
